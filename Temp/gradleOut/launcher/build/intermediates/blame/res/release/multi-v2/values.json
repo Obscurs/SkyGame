@@ -1,0 +1,81 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Arnsu\\Desktop\\CA LAB 2\\VAR CardBoard\\VAR CardBoard\\SkyGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Arnsu\\Desktop\\CA LAB 2\\VAR CardBoard\\VAR CardBoard\\SkyGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "5,2,7",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "190,53,288",
+                        "endLines": "6,4,10",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "286,188,513"
+                    },
+                    "to": {
+                        "startLines": "79,92,95",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6302,6876,7014",
+                        "endLines": "80,94,98",
+                        "endColumns": "8,8,8",
+                        "endOffsets": "6397,7009,7236"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arnsu\\Desktop\\CA LAB 2\\VAR CardBoard\\VAR CardBoard\\SkyGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "391",
+                        "endColumns": "45",
+                        "endOffsets": "432"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arnsu\\Desktop\\CA LAB 2\\VAR CardBoard\\VAR CardBoard\\SkyGame\\Temp\\gradleOut\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,99",
+                        "endColumns": "42,65",
+                        "endOffsets": "95,162"
+                    },
+                    "to": {
+                        "startLines": "8,50",
+                        "startColumns": "4,4",
+                        "startOffsets": "437,3753",
+                        "endColumns": "44,67",
+                        "endOffsets": "477,3816"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Arnsu\\.gradle\\caches\\transforms-2\\files-2.1\\4c6de21e6562760059b66d50e382a03c\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,5,8,9,10,13,16,19,22,25,28,31,34,37,40,43,46,50,54,57,60,61,64,67,70,73,76,79,84,89,93,101",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "196,249,376,427,481,617,848,1152,1439,1622,1959,2292,2491,2688,2898,3108,3239,3535,3831,4137,4363,4566,4768,5049,5374,5577,5876,6085,6352,6599,6735,7066",
+                        "endLines": "4,5,8,9,10,15,18,21,24,27,30,33,36,39,42,45,49,53,56,59,60,63,66,69,72,75,78,81,86,90,98,107",
+                        "endColumns": "52,49,50,53,57,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,202,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "248,298,426,480,538,847,1151,1438,1621,1958,2291,2490,2687,2897,3107,3238,3534,3830,4136,4362,4565,4767,5048,5373,5576,5875,6084,6275,6510,6658,6977,7416"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,9,12,15,18,21,24,27,30,33,36,39,42,46,51,54,57,58,61,64,67,70,73,76,81,84,86,99",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,162,216,271,329,482,717,1025,1316,1503,1844,2186,2389,2590,2804,3018,3153,3453,3821,4131,4361,4568,4774,5059,5384,5591,5894,6107,6402,6565,6629,7241",
+                        "endLines": "2,3,4,5,6,11,14,17,20,23,26,29,32,35,38,41,45,49,53,56,57,60,63,66,69,72,75,78,83,85,91,105",
+                        "endColumns": "56,53,54,57,61,11,13,11,11,11,13,13,11,11,11,11,11,11,13,11,206,13,13,13,11,13,13,13,8,8,8,8",
+                        "endOffsets": "157,211,266,324,386,712,1020,1311,1498,1839,2181,2384,2585,2799,3013,3148,3448,3748,4126,4356,4563,4769,5054,5379,5586,5889,6102,6297,6560,6624,6871,7591"
+                    }
+                }
+            ]
+        }
+    ]
+}

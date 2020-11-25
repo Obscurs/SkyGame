@@ -1,0 +1,4 @@
+#Wed Nov 25 23:31:33 CET 2020
+base.0=C\:\\Users\\Arnsu\\Desktop\\CA LAB 2\\VAR CardBoard\\VAR CardBoard\\SkyGame\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
